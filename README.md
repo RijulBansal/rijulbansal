@@ -40,8 +40,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+![Rijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RijulBansal&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RijulBansal&layout=compact&theme=radical)  
 
 ---
 
