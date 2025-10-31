@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="./Samsung logo.jpg" width="22" style="vertical-align: -5px; margin-right: 6px;"/> **Samsung PRISM** — Research Intern  
+### <img src="./samsung logo.jpg" width="22" style="vertical-align: -5px; margin-right: 6px;"/> **Samsung PRISM** — Research Intern  
 *Sep 2024 – Mar 2025*  
 - Engineered a **merged LLM** from Mistral models, reducing compute cost by **30%**.  
 - Designed and executed **fine-tuning pipelines** ensuring balanced text/code performance.  
