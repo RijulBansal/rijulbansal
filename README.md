@@ -7,7 +7,7 @@
 </p>
 
 
-## 💼 Experience  
+## 🚀 My Journey 
 
 <div style="border-left: 2px solid #00BFFF; padding-left: 20px; margin-left: 10px;">
 
