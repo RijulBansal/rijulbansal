@@ -9,42 +9,11 @@
 
 ## 💼 Experience  
 
-<table>
-  <tr>
-    <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/American_Express_logo_(2018).svg" width="60" alt="Amex Logo"/>
-    </td>
-    <td>
-      <b>Analyst Intern – American Express (Credit & Fraud Risk)</b>  
-      <br> <i>Jun 2025 – Jul 2025</i>  
-      <br>• Contributed to API design, data flows & sprint milestones for a fraud-risk platform migration  
-      <br>• Groomed technical requirements for an end-to-end fraud recovery module  
-      <br>• Achieved project completion ~20% ahead of schedule  
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" width="60" alt="Samsung Logo"/>
-    </td>
-    <td>
-      <b>Research Intern – Samsung PRISM</b>  
-      <br> <i>Sep 2024 – Mar 2025</i>  
-      <br>• Built a merged LLM from Mistral AI models, cutting computational cost by 30%  
-      <br>• Designed fine-tuning pipelines ensuring balanced text/code performance  
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Thapar_Institute_of_Engineering_and_Technology_logo.png" width="55" alt="TIET Logo"/>
-    </td>
-    <td>
-      <b>Intern – Experiential Learning Centre, TIET</b>  
-      <br> <i>Jun 2024 – Jul 2024</i>  
-      <br>• Implemented SLAM simulation for autonomous navigation using ROS2 & Gazebo  
-      <br>• Designed obstacle detection & pathfinding logic for robotic mobility  
-    </td>
-  </tr>
-</table>
+| 🏢 Organization | 💻 Role | 🗓️ Duration | 🚀 Key Work |
+|-----------------|---------|--------------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/American_Express_logo_(2018).svg" width="80"> | Analyst Intern, Credit & Fraud Risk | Jun 2025 – Jul 2025 | API design, platform migration, fraud module |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" width="80"> | Research Intern | Sep 2024 – Mar 2025 | Merged LLM models, reduced compute by 30% |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Thapar_Institute_of_Engineering_and_Technology_logo.png" width="70"> | Robotics Intern | Jun 2024 – Jul 2024 | SLAM, ROS2, Navigation system |
 
 
 # 👋 Hi, I'm Rijul Bansal  
