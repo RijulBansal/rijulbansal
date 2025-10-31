@@ -9,7 +9,7 @@
 
 ## 💼 Experience  
 
-### <img src="./amex logo.jpg" width="28" style="vertical-align: middle; margin-right: 6px;"/> **American Express** — Analyst Intern (Credit & Fraud Risk)  
+### <img src="./amex logo.jpg" width="28" style="vertical-align: -5px; margin-right: 6px;"/> **American Express** — Analyst Intern (Credit & Fraud Risk)  
 *Jun 2025 – Jul 2025*  
 - Contributed to **API design, data flows, and sprint milestones** for a fraud-risk platform migration.  
 - Groomed technical requirements for an **end-to-end fraud recovery module**.  
@@ -17,14 +17,14 @@
 
 ---
 
-### <img src="./samsung logo.jpg" width="28" style="vertical-align: middle; margin-right: 6px;"/> **Samsung PRISM** — Research Intern  
+### <img src="./samsung logo.jpg" width="28" style="vertical-align: -5px; margin-right: 6px;"/> **Samsung PRISM** — Research Intern  
 *Sep 2024 – Mar 2025*  
 - Engineered a **merged LLM** from Mistral models, reducing compute cost by **30%**.  
 - Designed and executed **fine-tuning pipelines** ensuring balanced text/code performance.  
 
 ---
 
-### <img src="tiet logo.png" width="28" style="vertical-align: middle; margin-right: 6px;"/> **Experiential Learning Centre, TIET** — Intern  
+### <img src="tiet logo.png" width="28" style="vertical-align: -5px; margin-right: 6px;"/> **Experiential Learning Centre, TIET** — Intern  
 *Jun 2024 – Jul 2024*  
 - Built a **SLAM simulation** for autonomous navigation using **ROS2 & Gazebo**.  
 - Created **pathfinding and obstacle detection** logic for mobile robotics.  
