@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rijul%20Bansal&fontSize=50&fontColor=ffffff&animation=fadeIn&blur=3&background=transparent" />
+</p>
+
 # 👋 Hi, I'm Rijul Bansal  
 
 🎓 Pre-final year Computer Science & Engineering student at Thapar Institute of Engineering & Technology (GPA: 9.17/10)  
