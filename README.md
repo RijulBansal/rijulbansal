@@ -9,25 +9,37 @@
 
 ## 💼 Experience  
 
-### <img src="./amex logo.jpg" width="22" style="vertical-align: -15px; margin-right: 6px;"/> **American Express** — Analyst Intern (Credit & Fraud Risk)  
-*Jun 2025 – Jul 2025*  
-- Contributed to **API design, data flows, and sprint milestones** for a fraud-risk platform migration.  
-- Groomed technical requirements for an **end-to-end fraud recovery module**.  
-- Achieved project completion **~20% ahead of schedule**.  
+<div style="border-left: 2px solid #00BFFF; padding-left: 20px; margin-left: 10px;">
 
----
+  <div style="margin-bottom: 25px;">
+    <h4><img src="./assets/logos/amex.png" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b>American Express</b> — Analyst Intern (Credit & Fraud Risk)</h4>
+    <i>Jun 2025 – Jul 2025</i>  
+    <ul>
+      <li>Contributed to <b>API design, data flows, and sprint milestones</b> for a fraud-risk platform migration.</li>
+      <li>Groomed technical requirements for an <b>end-to-end fraud recovery module</b>.</li>
+      <li>Achieved project completion <b>~20% ahead of schedule</b>.</li>
+    </ul>
+  </div>
 
-### <img src="./samsung logo.jpg" width="22" style="vertical-align: -5px; margin-right: 6px;"/> **Samsung PRISM** — Research Intern  
-*Sep 2024 – Mar 2025*  
-- Engineered a **merged LLM** from Mistral models, reducing compute cost by **30%**.  
-- Designed and executed **fine-tuning pipelines** ensuring balanced text/code performance.  
+  <div style="margin-bottom: 25px;">
+    <h4><img src="./assets/logos/samsung.png" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b>Samsung PRISM</b> — Research Intern</h4>
+    <i>Sep 2024 – Mar 2025</i>  
+    <ul>
+      <li>Engineered a <b>merged LLM</b> from Mistral models, reducing compute cost by <b>30%</b>.</li>
+      <li>Designed and executed <b>fine-tuning pipelines</b> ensuring balanced text/code performance.</li>
+    </ul>
+  </div>
 
----
+  <div style="margin-bottom: 25px;">
+    <h4><img src="./assets/logos/thapar.png" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b>Experiential Learning Centre, TIET</b> — Intern</h4>
+    <i>Jun 2024 – Jul 2024</i>  
+    <ul>
+      <li>Built a <b>SLAM simulation</b> for autonomous navigation using <b>ROS2 & Gazebo</b>.</li>
+      <li>Created <b>pathfinding and obstacle-detection</b> logic for mobile robotics.</li>
+    </ul>
+  </div>
 
-### <img src="tiet logo.png" width="22" style="vertical-align: -5px; margin-right: 6px;"/> **Experiential Learning Centre, TIET** — Intern  
-*Jun 2024 – Jul 2024*  
-- Built a **SLAM simulation** for autonomous navigation using **ROS2 & Gazebo**.  
-- Created **pathfinding and obstacle detection** logic for mobile robotics.  
+</div>
 
 
 
