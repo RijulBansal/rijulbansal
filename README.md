@@ -13,7 +13,8 @@
 
   <div style="margin-bottom: 25px;">
     <h4><img src="./amex logo.jpg" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b> American Express</b> - Analyst Intern (Credit & Fraud Risk)</h4>
-    <i>Jun 2025 – Jul 2025</i>  
+    <i>Jun 2025 – Jul 2025</i> 
+    <p></p>
     <ul>
       <li>Contributed to <b>API design, data flows, and sprint milestones</b> for a fraud-risk platform migration.</li>
       <li>Groomed technical requirements for an <b>end-to-end fraud recovery module</b>.</li>
@@ -24,6 +25,7 @@
   <div style="margin-bottom: 25px;">
     <h4><img src="./samsung logo.jpg" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b> Samsung R&D Institute, Bangalore</b> - Software Research Intern</h4>
     <i>Sep 2024 – Mar 2025</i>  
+    <p></p>
     <ul>
       <li>Engineered a <b>merged LLM</b> from Mistral models, reducing compute cost by <b>30%</b>.</li>
       <li>Designed and executed <b>fine-tuning pipelines</b> ensuring balanced text/code performance.</li>
@@ -32,7 +34,8 @@
 
   <div style="margin-bottom: 25px;">
     <h4><img src="./tiet logo.png" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b> Experiential Learning Centre, TIET</b> - Research Intern</h4>
-    <i>Jun 2024 – Jul 2024</i>  
+    <i>Jun 2024 – Jul 2024</i>
+    <p></p>
     <ul>
       <li>Built a <b>SLAM simulation</b> for autonomous navigation using <b>ROS2 & Gazebo</b>.</li>
       <li>Created <b>pathfinding and obstacle-detection</b> logic for mobile robotics.</li>
