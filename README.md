@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rijul%20Bansal&fontSize=48&fontColor=ffffff&color=0:0070C9,100:7B68EE&animation=fadeIn&desc=Debugging%20life%20one%20line%20at%20a%20time.&descAlignY=60&descAlign=50&stroke=ffffff&strokeWidth=0.7&blur=4&fontAlignY=35&fontAlign=50&reversal=false&background=transparent" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hey,%20I%20am%20Rijul&fontSize=42&fontColor=ffffff&color=0:1E90FF,100:00BFFF&animation=fadeIn&desc=Debugging%20life%20one%20line%20at%20a%20time.&descAlignY=55&descAlign=50&stroke=ffffff&strokeWidth=0.6&blur=3&fontAlignY=35&fontAlign=50&background=transparent" />
 </p>
+
 
 
 # 👋 Hi, I'm Rijul Bansal  
