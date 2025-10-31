@@ -9,11 +9,25 @@
 
 ## 💼 Experience  
 
-| 🏢 Organization | 💻 Role | 🗓️ Duration | 🚀 Key Work |
-|-----------------|---------|--------------|--------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/American_Express_logo_(2018).svg" width="80"> | Analyst Intern, Credit & Fraud Risk | Jun 2025 – Jul 2025 | API design, platform migration, fraud module |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" width="80"> | Research Intern | Sep 2024 – Mar 2025 | Merged LLM models, reduced compute by 30% |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Thapar_Institute_of_Engineering_and_Technology_logo.png" width="70"> | Robotics Intern | Jun 2024 – Jul 2024 | SLAM, ROS2, Navigation system |
+### 🏢 **American Express** — Analyst Intern (Credit & Fraud Risk)  
+*Jun 2025 – Jul 2025*  
+- Contributed to API design, data flows & sprint milestones for a fraud-risk platform migration  
+- Groomed technical requirements for an end-to-end fraud recovery module  
+- Delivered project ~20% ahead of schedule  
+
+---
+
+### 🧠 **Samsung PRISM** — Research Intern  
+*Sep 2024 – Mar 2025*  
+- Engineered a merged LLM from Mistral models, reducing training cost by 30%  
+- Designed fine-tuning pipelines ensuring balanced performance  
+
+---
+
+### 🤖 **Experiential Learning Centre, TIET** — Intern  
+*Jun 2024 – Jul 2024*  
+- Built SLAM simulation for autonomous navigation using ROS2 & Gazebo  
+- Created obstacle detection and pathfinding mechanisms  
 
 
 # 👋 Hi, I'm Rijul Bansal  
