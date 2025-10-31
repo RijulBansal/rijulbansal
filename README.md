@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hey,%20I%20am%20Rijul&fontSize=42&fontColor=ffffff&color=0:1E90FF,50:00CED1,100:00BFFF&animation=fadeIn&desc=Tinkering%20with%20tech,%20building%20cool%20stuff,%20and%20learning%20along%20the%20way.&descSize=18&descAlignY=58&descAlign=50&descFont=monospace&descFontColor=ffffff&stroke=ffffff&strokeWidth=0.6&blur=3&fontAlignY=35&fontAlign=50&background=transparent" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hey,%20I%20am%20Rijul&fontSize=42&fontColor=ffffff&color=0:1E90FF,50:00CED1,100:00BFFF&animation=fadeIn&stroke=ffffff&strokeWidth=0.6&blur=3&fontAlignY=35&fontAlign=50&background=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Tinkering+with+tech,+building+cool+stuff,+and+learning+along+the+way." alt="Typing SVG" />
 </p>
 
 
