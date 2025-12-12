@@ -14,7 +14,7 @@
 # 👋 Hi, I'm Rijul Bansal  
 
 🎓 Pre-final year Computer Science & Engineering student at Thapar Institute of Engineering & Technology (GPA: 9.17/10)  
-💻 Aspiring Software Engineer | 🚀 AI/ML, Robotics & Cloud Enthusiast  
+💻 Software Engineer | Backend Specialisation | 🚀 AI/ML, Robotics & Cloud Enthusiast  
 💡 I love solving problems at the intersection of **software engineering, intelligent systems, and real-world applications**.  
 
 ---
