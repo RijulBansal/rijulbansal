@@ -20,7 +20,8 @@
 ---
 
 ## 🚀 Tech Stack  
-**Languages:** Python • C/C++ • JavaScript • Dart • SQL  
+**Languages:** Java • Kotlin • Python • C/C++ • JavaScript • Dart • SQL
+**Backend:** Distributed Systems • Event-Driven Architecture (MQTT/Kafka) • RESTful APIs • Microservices • Data Pipelines
 **Frameworks & Tools:** React • Node.js • Flutter • PyTorch • TensorFlow • OpenCV • ROS2 • Docker • Git  
 **Cloud & IoT:** AWS (IoT Core, Lambda, SageMaker, S3, CloudWatch, TwinMaker) • MQTT • ESP32 • IoT Sensors  
 **Databases:** MongoDB • MySQL • SQLite  
@@ -29,7 +30,7 @@
 
 ## 🌟 Featured Projects  
 
-- 🌾 [**FarmLink**](#) – Smart agricultural data management platform (IoT + Flutter app + Node.js backend), deployed across **70 villages in Punjab**.  
+- 🌾 [**FarmLink**](#) – Smart agricultural data management platform (IoT + Kotlin + Node.js backend), deployed across **70 villages in Punjab**.  
 - 💧 [**IrrigoTwin**](#) – Cloud-based digital twin for smart hydroponics and water management using AWS IoT & SageMaker, reducing resource wastage by **10%**.  
 - 🏥 [**Aarogya Mitra**](#) – Government healthcare digitization platform with **appointment booking, QR-based medicine dispensing, and digital health vault**.  
 - 🎯 [**focUSed 1.0**](#) – Productivity app built with Flutter implementing the **Pomodoro Technique** for better time management.  
