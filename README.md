@@ -21,7 +21,8 @@
 
 ## 🚀 Tech Stack  
 **Languages:** Java • Kotlin • Python • C/C++ • JavaScript • Dart • SQL
-**Backend:** Distributed Systems • Event-Driven Architecture (MQTT/Kafka) • RESTful APIs • Microservices • Data Pipelines
+**Backend:** Distributed Systems • Event-Driven Architecture (MQTT/Kafka) • RESTful APIs • Microservices • 
+Data Pipelines
 **Frameworks & Tools:** React • Node.js • Flutter • PyTorch • TensorFlow • OpenCV • ROS2 • Docker • Git  
 **Cloud & IoT:** AWS (IoT Core, Lambda, SageMaker, S3, CloudWatch, TwinMaker) • MQTT • ESP32 • IoT Sensors  
 **Databases:** MongoDB • MySQL • SQLite  
