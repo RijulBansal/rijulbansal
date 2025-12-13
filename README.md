@@ -85,6 +85,9 @@
 
 ## 🌍 Positions of Responsibility  
 
+- **Joint Secretary - IEEE Student Chapter TIET**  
+  Organising technical workshops and hackathons on campus.  
+
 - **Academic Head – Pratigya Abhiyan (NGO)**  
   Leading after-school tutoring for underprivileged children, impacting education access.  
 
