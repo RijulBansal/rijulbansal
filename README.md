@@ -43,7 +43,7 @@
 <div style="border-left: 2px solid #00BFFF; padding-left: 20px; margin-left: 10px;">
 
   <div style="margin-bottom: 25px;">
-    <h4><img src="./amex logo.jpg" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b> American Express</b> - Analyst Intern (Credit & Fraud Risk)</h4>
+    <h4><img src="./amex logo.jpg" width="26" style="vertical-align: -5px; margin-right: 6px;" /> <b> American Express</b> - SDE Intern (Credit & Fraud Risk)</h4>
     <i>Jun 2025 – Jul 2025</i> 
     <p></p>
     <ul>
